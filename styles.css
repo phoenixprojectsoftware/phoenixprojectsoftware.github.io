@@ -1,9 +1,16 @@
 /*
     Beatable Meat Portal STYLES definer file. Written by https://github.com/sabian-heatwave for Beatable Meat Portal"s frame code @ The Phoenix Project
         Copyright © 2020 The Phoenix Project
+    The rights to the fonts included here go to their respective owners.
 */
 /* 
     ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
+*/
+/*
+    ==FONTS==
+*/
+/*
+    Beon
 */
 @font-face {
     font-family: "Beon";
@@ -12,6 +19,9 @@
     font-style: normal;
 }
 
+/*
+    D-Din Express
+*/
 @font-face {
     font-family: "D-DIN Exp";
     src: url("D-DINExp.woff2") format("woff2"), url("D-DINExp.woff") format("woff");
@@ -19,6 +29,131 @@
     font-style: normal;
 }
 
+/*
+    Bahnschrift
+*/
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 1.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 10.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 11.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 12.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 13.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 14.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 2.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 3.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 4.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 5.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 6.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 7.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 8.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT 9.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Bahnschrift Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Bahnschrift Regular"), url("BAHNSCHRIFT.woff") format("woff");
+}
+
+/*
+    ==DEFAULT FONTS==
+*/
 body {
     font-family: Beon;
     background-color: #000000;
