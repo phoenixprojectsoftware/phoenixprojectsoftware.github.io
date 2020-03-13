@@ -157,21 +157,25 @@
 body {
     font-family: Beon;
     background-color: #000000;
+    text-align: center;
 }
 
 h1 {
     font-family:Beon;
     color: white;
+    text-align: center;
 }
 
 h2 {
     font-family:Beon;
     color: white;
+    text-align: center;
 }
 
 h3 {
     font-family:Beon;
     color: white;
+    text_align: center
 }
 
 p {
