@@ -11,7 +11,7 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
 
 ### APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY HEATWAVE STUDIOS) | http://www.apache.org/licenses/
 
-#### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+  #### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
@@ -182,7 +182,11 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-##### END OF TERMS AND CONDITIONS
+   10. Any repository that uses this template MUST include this license 
+   and make sure it is up-to-date. The developer of a repository that uses
+   this must 'stay-tuned' to this license regularly in case it updates.
+
+END OF TERMS AND CONDITIONS
    Copyright © 2020 Heatwave Studios
 
    Licensed under the Apache License, Version 2.0 (the "License");
